@@ -1,7 +1,11 @@
 # miniRT: Mon premier RayTracer avec miniLibX
 
-![scene](screenshot/scene.png)
-
+<div>
+  <img src="screenshot/scene2.png" width="200" height="200">
+  <img src="screenshot/scene1.png" width="200" height="200">
+  <img src="screenshot/scene3.png" width="200" height="200">
+<div>
+  
 ## Installation
 
 Pour exécuter le projet, un environnement Linux est requis. WSL2 est également pris en charge.
