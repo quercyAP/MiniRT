@@ -5,7 +5,11 @@
   <img src="screenshot/scene1.png" width="200" height="200">
   <img src="screenshot/scene3.png" width="200" height="200">
 <div>
-  
+
+**Description** : Le but de ce programme est de générer des images en utilisant le protocole de Raytracing. 
+Ces images générées par ordinateur représenteront chacune une scène, vue sous un angle et une position spécifiques, 
+définis par des objets géométriques simples, chacun ayant son propre système d'éclairage.
+
 ## Installation
 
 Pour exécuter le projet, un environnement Linux est requis. WSL2 est également pris en charge.
@@ -52,10 +56,6 @@ Chaque règle est conçue pour faciliter une étape spécifique du développemen
 de la compilation à la gestion des dépendances et au débogage.
 
 **Arguments** : une scène au format *.rt
-
-**Description** : Le but de votre programme est de générer des images en utilisant le protocole de Raytracing. 
-Ces images générées par ordinateur représenteront chacune une scène, vue sous un angle et une position spécifiques, 
-définis par des objets géométriques simples, chacun ayant son propre système d'éclairage.
 
 **Contraintes** :
 - Utilisation obligatoire de la miniLibX.
