@@ -67,5 +67,3 @@ de la compilation à la gestion des dépendances et au débogage.
 - Gestion de la lumière : luminosité des spots, ombres dures, éclairage ambiant.
 - Le programme doit afficher l'image dans une fenêtre et respecter certaines règles (utilisation de ESC pour fermer, gestion de la croix rouge, etc.).
 - Le programme doit prendre comme premier argument un fichier de description de scène avec l'extension .rt.
-
-**Gestion des erreurs** : En cas de mauvaise configuration dans le fichier, le programme doit se terminer correctement et retourner "Error\n" suivi d'un message d'erreur explicite.
